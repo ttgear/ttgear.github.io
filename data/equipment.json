@@ -11427,6 +11427,88 @@
   ],
   "blades": [
     {
+      "id": "sword-vsea",
+      "name": "VSEA（威势）",
+      "brand": "世奥得",
+      "brandEn": "Sword",
+      "series": "VSEA",
+      "price": 458,
+      "priceMin": 380,
+      "priceMax": 650,
+      "currency": "CNY",
+      "image": "https://www.swordtt.com/uploadfiles/image/20230219/1676797165461738.png",
+      "description": "世奥得 VSEA（威势）是采用金色聚芳酯碳素混编纤维的五木二纤内置底板，官方标注厚度 6.0 mm，配合 NRF 技术，定位弧圈结合快攻。",
+      "tags": {
+        "brand": [
+          "Sword（世奥得）"
+        ],
+        "structure": [
+          "内置纤维"
+        ],
+        "material": [
+          "其他复合纤维"
+        ],
+        "position": [
+          "快攻弧圈",
+          "弧圈",
+          "相持",
+          "主动进攻"
+        ],
+        "handle": [
+          "FL",
+          "ST",
+          "CS"
+        ],
+        "speed": [
+          "OFF"
+        ],
+        "feel": [
+          "持球",
+          "稳定",
+          "支撑"
+        ],
+        "weight": [
+          "常规"
+        ],
+        "origin": [
+          "中国"
+        ],
+        "alias": [
+          "世奥得 VSEA",
+          "VSEA 威势",
+          "VSEA 海神"
+        ],
+        "structureDetail": [
+          "五木二纤"
+        ],
+        "materialDetail": [
+          "Vectran / Carbon 金色聚芳酯碳素混编纤维"
+        ],
+        "bladeFormat": [
+          "横板",
+          "直板"
+        ],
+        "bladeHardness": [
+          "中硬"
+        ]
+      },
+      "sources": [
+        "乒乓球吧移动端 2026-09-16 帖子「vesa，v14pro等底板选择求助」",
+        "https://www.swordtt.com/goods/426.html",
+        "https://www.dku51.com/goods-4515.html"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-09-16"
+      ],
+      "images": [
+        "https://www.swordtt.com/uploadfiles/image/20230219/1676797165461738.png",
+        "https://www.swordtt.com/uploadfiles/image/20230219/1676797164521124.png",
+        "https://www.swordtt.com/uploadfiles/image/20230219/1676797164627218.png",
+        "https://www.swordtt.com/uploadfiles/image/20230219/1676797166632498.png",
+        "https://www.swordtt.com/uploadfiles/image/20230219/1676797167163367.png"
+      ]
+    },
+    {
       "id": "donic-zhang-jike-true-carbon",
       "releaseDate": "2026-09-01",
       "name": "ZHANG JIKE TRUE CARBON（张继科 TRUE CARBON）",
