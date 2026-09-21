@@ -1,6 +1,76 @@
 {
   "rubbers": [
     {
+      "id": "yinhe-saturn-s1",
+      "releaseDate": "2026-09-17",
+      "name": "土星 S1（Saturn S1）",
+      "brand": "银河",
+      "brandEn": "Yinhe",
+      "series": "土星",
+      "price": 80,
+      "priceMin": 60,
+      "priceMax": 110,
+      "currency": "CNY",
+      "image": "https://down-my.img.susercontent.com/file/sg-11134201-8257t-mr1ecwws4268cc",
+      "description": "银河 2026 年推出的土星 S1 粘性反胶，采用 13 号中密度海绵，提供中硬和高硬版本；中硬版侧重稳定相持，高硬版提供更强支撑。",
+      "tags": {
+        "brand": [
+          "Yinhe（银河）"
+        ],
+        "position": [
+          "正手",
+          "反手"
+        ],
+        "rubberType": [
+          "反胶"
+        ],
+        "sponge": [
+          "高密海绵"
+        ],
+        "thickness": [
+          "Max"
+        ],
+        "hardness": [
+          "中硬",
+          "硬"
+        ],
+        "style": [
+          "弧圈",
+          "控制",
+          "相持"
+        ],
+        "origin": [
+          "中国"
+        ],
+        "surface": [
+          "粘性胶面"
+        ],
+        "alias": [
+          "银河土星 S1",
+          "Yinhe Saturn S1"
+        ],
+        "spongeDetail": [
+          "13 号中密度海绵"
+        ]
+      },
+      "sources": [
+        "乒乓球吧移动端 2026-09-22 帖子「（水）银河土星s1中硬试打」",
+        "https://www.eacheng.net/YINHE-SATURN-S1-p2178567.html",
+        "https://www.ppongsuper.com/product/yinhe-saturn-s1-table-tennis-rubber/",
+        "https://shopee.com.my/2026-New-YINHE-SATURN-S1-Forehand-Offensive-Sticky-Table-Tennis-Rubber-Ping-Pong-Sponge-i.253953490.54314756065"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-09-22"
+      ],
+      "images": [
+        "https://down-my.img.susercontent.com/file/sg-11134201-8257t-mr1ecwws4268cc",
+        "https://down-my.img.susercontent.com/file/my-11134258-820lh-ms3xxmi23ocm8c",
+        "https://down-my.img.susercontent.com/file/sg-11134201-825aq-mr1ecxdrexhg3f",
+        "https://down-my.img.susercontent.com/file/sg-11134201-825bd-mr1ecxxi6byc02",
+        "https://down-my.img.susercontent.com/file/sg-11134201-82598-mr1ecyckrl6s75"
+      ]
+    },
+    {
       "id": "victas-vj-07-stiff",
       "name": "VJ>07 Stiff",
       "brand": "维克塔斯",
@@ -11426,6 +11496,79 @@
     }
   ],
   "blades": [
+    {
+      "id": "friendship-729-kuanglan-nb50",
+      "name": "狂揽 NB50（金标特制）",
+      "brand": "友谊729",
+      "brandEn": "Friendship 729",
+      "series": "狂揽",
+      "price": 790,
+      "priceMin": 650,
+      "priceMax": 850,
+      "currency": "CNY",
+      "image": "https://img.alicdn.com/bao/uploaded/i3/515207793/O1CN01LxZoTN27RFDJWMTuc_!!0-item_pic.jpg",
+      "description": "友谊729 狂揽 NB50 是金标特制的五木二纤内置黄芳碳底板，提供横板和直板版本，定位快攻结合弧圈。",
+      "tags": {
+        "brand": [
+          "Friendship 729（友谊729）"
+        ],
+        "structure": [
+          "内置纤维"
+        ],
+        "material": [
+          "芳碳（ALC）"
+        ],
+        "position": [
+          "快攻弧圈",
+          "弧圈",
+          "主动进攻"
+        ],
+        "handle": [
+          "FL",
+          "CS"
+        ],
+        "speed": [
+          "OFF"
+        ],
+        "feel": [
+          "稳定",
+          "支撑"
+        ],
+        "weight": [
+          "偏轻"
+        ],
+        "origin": [
+          "中国"
+        ],
+        "alias": [
+          "729 狂揽 NB50",
+          "金标 NB50",
+          "狂揽金标 NB50"
+        ],
+        "structureDetail": [
+          "五木二纤"
+        ],
+        "materialDetail": [
+          "内置黄芳碳"
+        ],
+        "bladeFormat": [
+          "横板",
+          "直板"
+        ]
+      },
+      "sources": [
+        "乒乓球吧移动端 2026-09-22 帖子「200价位是选世奥得威势vsea还是729金标狂揽nb50?」",
+        "https://tao.hooos.com/goods_625306247789.html",
+        "https://detail.youzan.com/show/goods/newest?kdt_id=18087819&p=8",
+        "https://www.jd.com/brand/1318df5674ede0453079.html"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-09-22"
+      ],
+      "images": [
+        "https://img.alicdn.com/bao/uploaded/i3/515207793/O1CN01LxZoTN27RFDJWMTuc_!!0-item_pic.jpg"
+      ]
+    },
     {
       "id": "sword-vsea",
       "name": "VSEA（威势）",
