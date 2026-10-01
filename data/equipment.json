@@ -26381,6 +26381,90 @@
       "images": [
         "https://cdn.quickbutik.com/images/28644m/products/6682533495e45.png"
       ]
+    },
+    {
+      "id": "xiom-2-face",
+      "releaseDate": "2026-06",
+      "releaseYear": 2026,
+      "name": "2 FACE（双面）",
+      "brand": "骄猛",
+      "brandEn": "XIOM",
+      "series": "50th Anniversary",
+      "price": 1100,
+      "priceMin": 900,
+      "priceMax": 1450,
+      "currency": "CNY",
+      "image": "https://image1.shopserve.jp/shop.mingles.jp/pic-labo/001_9315.jpg",
+      "description": "2 FACE 是骄猛 50 周年系列异质底板，同一块底板的一面采用外置 Axylium Carbon 强化进攻，另一面采用内置结构提升控制；官方称其为 Dual Flex 设计。",
+      "tags": {
+        "brand": [
+          "XIOM（骄猛）"
+        ],
+        "structure": [
+          "异质纤维"
+        ],
+        "material": [
+          "混编碳纤维"
+        ],
+        "position": [
+          "快攻弧圈",
+          "控制"
+        ],
+        "handle": [
+          "FL",
+          "ST"
+        ],
+        "speed": [
+          "OFF"
+        ],
+        "feel": [
+          "直接",
+          "持球",
+          "清晰"
+        ],
+        "weight": [
+          "常规"
+        ],
+        "origin": [
+          "韩国"
+        ],
+        "alias": [
+          "XIOM 2FACE",
+          "骄猛双面",
+          "2 FACE Dual Flex"
+        ],
+        "structureDetail": [
+          "5+2",
+          "一面外置、一面内置",
+          "板厚 5.7mm"
+        ],
+        "materialDetail": [
+          "Axylium Carbon"
+        ],
+        "weightDetail": [
+          "84-88g"
+        ],
+        "bladeFormat": [
+          "横板"
+        ],
+        "bladeHardness": [
+          "中等"
+        ]
+      },
+      "sources": [
+        "https://xiom.global/product/2-face/1432/category/1/display/4/",
+        "https://shop.mingles.jp/SHOP/9315.html",
+        "https://item.rakuten.co.jp/ishikawasports/xiom-8014/",
+        "https://tieba.baidu.com/p/11062595217"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-01"
+      ],
+      "images": [
+        "https://image1.shopserve.jp/shop.mingles.jp/pic-labo/001_9315.jpg",
+        "https://www.tt-ouendan.com/upload/save_image/xiom/20260737-1.jpg",
+        "https://ec.takkyu-navi.jp/html/upload/save_image/0515110922_6a0680522c220.jpg"
+      ]
     }
   ],
   "boosters": [
