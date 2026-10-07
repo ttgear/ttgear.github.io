@@ -26383,6 +26383,93 @@
       ]
     },
     {
+      "id": "yinhe-970xx-k",
+      "releaseDate": "2018-07-31",
+      "releaseYear": 2018,
+      "name": "970XX-K（黄芳碳）",
+      "brand": "银河",
+      "brandEn": "Yinhe",
+      "series": "970XX",
+      "price": 320,
+      "priceMin": 260,
+      "priceMax": 420,
+      "currency": "CNY",
+      "image": "https://cdn.quickbutik.com/images/28644m/products/657e17b47ca24.jpeg?auto=format&dpr=1&fit=max&max-h=1200&max-w=1600",
+      "description": "银河 970XX-K 是 970XX 系列的内置 KLC 黄芳碳底板，采用 5 木 2 纤维结构，厚约 5.8 mm；公开资料将其定位为兼顾弧圈、连续进攻和控制的 OFF+ 底板，并提供横板和直板版本。",
+      "tags": {
+        "brand": [
+          "Yinhe（银河）"
+        ],
+        "structure": [
+          "内置纤维"
+        ],
+        "material": [
+          "芳碳（ALC）"
+        ],
+        "position": [
+          "快攻弧圈",
+          "弧圈",
+          "相持"
+        ],
+        "handle": [
+          "FL",
+          "CS"
+        ],
+        "speed": [
+          "OFF+"
+        ],
+        "feel": [
+          "持球",
+          "清晰",
+          "稳定"
+        ],
+        "weight": [
+          "常规"
+        ],
+        "origin": [
+          "中国"
+        ],
+        "alias": [
+          "银河970XX K",
+          "银河朝鲜队",
+          "970XX KLC",
+          "Yinhe 970XX-K"
+        ],
+        "structureDetail": [
+          "5+2",
+          "板厚 5.8±0.2mm"
+        ],
+        "materialDetail": [
+          "内置 KLC 黄芳碳"
+        ],
+        "weightDetail": [
+          "85-90g",
+          "90-95g"
+        ],
+        "bladeFormat": [
+          "横板",
+          "直板"
+        ],
+        "bladeHardness": [
+          "中等"
+        ]
+      },
+      "sources": [
+        "https://www.yinhe1986.cn/prod_view.aspx?Id=593&TypeId=230",
+        "https://chtt.se/en/varumarken/yinhe/yinhestommar/yinhe-970xx-k",
+        "https://www.deplus-sport.com/products/%E9%93%B6%E6%B2%B3-970xx-k-%E9%BB%83%E8%8A%B3%E7%A2%B3%E6%A1%8C%E7%90%83%E6%8B%8D-fl-cn",
+        "https://tieba.baidu.com/p/11083826811"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-08"
+      ],
+      "images": [
+        "https://cdn.quickbutik.com/images/28644m/products/657e17b47ca24.jpeg?auto=format&dpr=1&fit=max&max-h=1200&max-w=1600",
+        "https://cdn.quickbutik.com/images/28644m/products/657e17b484da6.jpeg?auto=format&dpr=1&fit=max&max-h=1200&max-w=1600",
+        "https://cdn.store-assets.com/s/357302/i/29417226.jpg"
+      ]
+    },
+    {
       "id": "xiom-2-face",
       "releaseDate": "2026-06",
       "releaseYear": 2026,
