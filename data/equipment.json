@@ -11497,6 +11497,91 @@
   ],
   "blades": [
     {
+      "id": "tibhar-fortino-pro-dc-inside",
+      "releaseDate": "2026-10-13",
+      "name": "FORTINO PRO DC INSIDE（佛迪诺 Pro DC 内置）",
+      "brand": "挺拔",
+      "brandEn": "TIBHAR",
+      "series": "Fortino",
+      "price": 859,
+      "priceMin": 740,
+      "priceMax": 1050,
+      "currency": "CNY",
+      "image": "https://www.paddlepalace.com/cdn/shop/files/STFPI-tibhar-fortino-pro-dc-1.jpg?v=1776288570",
+      "description": "TIBHAR 的 5 木 + 2 层内置 Dyneema Carbon 进攻底板。官方目录标注约 85±5 g、OFF，纤维位于大芯两侧，兼顾中远台弧圈所需的穿透力、持球感和灵活性。",
+      "tags": {
+        "brand": [
+          "TIBHAR（挺拔）"
+        ],
+        "structure": [
+          "内置纤维"
+        ],
+        "material": [
+          "混编碳纤维"
+        ],
+        "position": [
+          "弧圈",
+          "相持",
+          "主动进攻",
+          "中远台"
+        ],
+        "handle": [
+          "FL",
+          "ST",
+          "AN"
+        ],
+        "speed": [
+          "OFF"
+        ],
+        "feel": [
+          "持球",
+          "稳定",
+          "弹性",
+          "支撑"
+        ],
+        "weight": [
+          "常规"
+        ],
+        "origin": [
+          "德国"
+        ],
+        "alias": [
+          "Fortino Inside DC",
+          "Fortino Pro DC Inside",
+          "挺拔佛迪诺内置",
+          "佛迪诺 Pro DC Inside"
+        ],
+        "structureDetail": [
+          "5 木 + 2 内置纤维"
+        ],
+        "materialDetail": [
+          "Dyneema Carbon"
+        ],
+        "weightDetail": [
+          "80-90g"
+        ],
+        "bladeFormat": [
+          "横板"
+        ],
+        "bladeHardness": [
+          "中等"
+        ]
+      },
+      "sources": [
+        "https://www.tibhar.info/Katalog/webpdf/TIBHAR_Catalogue_25_EN_web.pdf",
+        "https://www.paddlepalace.com/Tibhar-Fortino-Pro-DC-Inside/productinfo/STFPI/",
+        "https://www.dku51.com/price_list-158.html",
+        "https://tieba.baidu.com/p/8592476443"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-13"
+      ],
+      "images": [
+        "https://www.paddlepalace.com/cdn/shop/files/STFPI-tibhar-fortino-pro-dc-1.jpg?v=1776288570",
+        "https://www.racket-company.com/media/catalog/product/cache/7d40c9c5d3b39902b9011263a39bcf8f/t/i/tibhar-fortino-pro-dc-inside-987654906-4038_Product.jpg"
+      ]
+    },
+    {
       "id": "friendship-729-kuanglan-nb50",
       "name": "狂揽 NB50（金标特制）",
       "brand": "友谊729",
