@@ -1,6 +1,75 @@
 {
   "rubbers": [
     {
+      "id": "donic-bluegrip-d1",
+      "releaseYear": 2026,
+      "name": "BlueGrip D1",
+      "brand": "多尼克",
+      "brandEn": "DONIC",
+      "series": "BlueGrip",
+      "price": 460,
+      "priceMin": 400,
+      "priceMax": 600,
+      "currency": "CNY",
+      "image": "https://assets.rubbermetrics.com/storage/v1/object/public/rubber-images/donic/rubbers/bluegrip-d1/large.webp",
+      "description": "DONIC BlueGrip D1 是 2026 年进入 ITTF 器材许可名单的高硬度粘性反胶，采用 57.5 度海绵并提供红、黑 MAX 版本，面向正手主动进攻和强旋转打法。",
+      "tags": {
+        "brand": [
+          "DONIC（多尼克）"
+        ],
+        "position": [
+          "正手"
+        ],
+        "rubberType": [
+          "反胶"
+        ],
+        "sponge": [
+          "蛋糕海绵"
+        ],
+        "thickness": [
+          "Max"
+        ],
+        "hardness": [
+          "特硬",
+          "57.5度"
+        ],
+        "style": [
+          "弧圈",
+          "主动进攻",
+          "发抢"
+        ],
+        "origin": [
+          "德国"
+        ],
+        "surface": [
+          "粘性胶面"
+        ],
+        "alias": [
+          "多尼克 D1",
+          "Bluegrip D1",
+          "蓝色紧握 D1",
+          "张继科 D1"
+        ],
+        "spongeDetail": [
+          "57.5 度高硬度海绵"
+        ]
+      },
+      "sources": [
+        "https://www.fftt.com/wp-content/uploads/2026/01/liste-des-revetements-autorises-2026.pdf",
+        "https://ttnpp.com/store/donic/1566-donic-bluegrip-d1-6.html",
+        "https://rubbermetrics.com/rubbers/donic/bluegrip-d1",
+        "https://tieba.baidu.com/p/11114650652"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-18"
+      ],
+      "images": [
+        "https://assets.rubbermetrics.com/storage/v1/object/public/rubber-images/donic/rubbers/bluegrip-d1/large.webp",
+        "https://ttnpp.com/store/3424-thickbox_default/donic-bluegrip-d1.jpg",
+        "https://ttnpp.com/store/3425-thickbox_default/donic-bluegrip-d1.jpg"
+      ]
+    },
+    {
       "id": "yinhe-saturn-s1",
       "releaseDate": "2026-09-17",
       "name": "土星 S1（Saturn S1）",
@@ -11496,6 +11565,87 @@
     }
   ],
   "blades": [
+    {
+      "id": "yinhe-sun-wen-afc",
+      "releaseDate": "2026-10-07",
+      "name": "孙闻 AFC（汇川孙闻）",
+      "brand": "银河",
+      "brandEn": "Yinhe",
+      "series": "汇川",
+      "price": 228,
+      "priceMin": 200,
+      "priceMax": 300,
+      "currency": "CNY",
+      "image": "https://img01.yzcdn.cn/upload_files/2026/10/07/FgR_jIbDw2BBy8j5XQslJBTTOrkO.png",
+      "description": "银河为孙闻推出的汇川孙闻 AFC 进攻底板，采用 5 木 + 2 层外置蓝芳碳结构和寇头面材，官方商品图标注速度 9、控制 9，提供横板与直板版本。",
+      "tags": {
+        "brand": [
+          "Yinhe（银河）"
+        ],
+        "structure": [
+          "外置纤维"
+        ],
+        "material": [
+          "芳碳（ALC）"
+        ],
+        "position": [
+          "快攻弧圈",
+          "快攻",
+          "主动进攻",
+          "近台"
+        ],
+        "handle": [
+          "FL",
+          "CS"
+        ],
+        "speed": [
+          "OFF"
+        ],
+        "feel": [
+          "清晰",
+          "直接",
+          "弹性",
+          "支撑"
+        ],
+        "origin": [
+          "中国"
+        ],
+        "alias": [
+          "银河孙闻 AFC",
+          "汇川孙闻 AFC",
+          "Yinhe Sun Wen AFC",
+          "HC-AFC"
+        ],
+        "structureDetail": [
+          "5 木 + 2 外置纤维"
+        ],
+        "materialDetail": [
+          "AFC 蓝芳碳",
+          "寇头面材",
+          "桐木大芯"
+        ],
+        "bladeFormat": [
+          "横板",
+          "直板"
+        ]
+      },
+      "sources": [
+        "https://detail.youzan.com/show/goods?alias=2x5did6uxyexqpj&from_source=gbox_seo",
+        "https://tokspin.com/product/hui-chuan-by-yinhe-china-sun-wen-afc-table-tennis-blade/",
+        "https://www.jd.com/xinkuan/1318b42b71667d76b9a5.html",
+        "https://tieba.baidu.com/p/11082989683"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-18"
+      ],
+      "images": [
+        "https://img01.yzcdn.cn/upload_files/2026/10/07/FgR_jIbDw2BBy8j5XQslJBTTOrkO.png",
+        "https://img01.yzcdn.cn/upload_files/2026/10/07/Fv_yYiA_dkPDi-Qvd096Cyxwg2XX.png",
+        "https://img01.yzcdn.cn/upload_files/2026/10/07/FvODUWxuTFSoo7MZQXHbY-ilgtcJ.png",
+        "https://img01.yzcdn.cn/upload_files/2026/10/07/FsWvkD_CNs5FlhHRBjR_7guctcps.png",
+        "https://img01.yzcdn.cn/upload_files/2026/10/07/FoWfWY93VhjD46fKB4Q5nzXqEeBB.png"
+      ]
+    },
     {
       "id": "tibhar-fortino-pro-dc-inside",
       "releaseDate": "2026-10-13",
