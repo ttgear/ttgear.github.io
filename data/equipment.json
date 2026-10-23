@@ -1,6 +1,83 @@
 {
   "rubbers": [
     {
+      "id": "stiga-dna-dragon-grip-55",
+      "name": "DNA Dragon Grip 55（DNA 赤龙）",
+      "brand": "斯帝卡",
+      "brandEn": "STIGA",
+      "series": "DNA Dragon Grip",
+      "price": 170,
+      "priceMin": 130,
+      "priceMax": 230,
+      "currency": "CNY",
+      "image": "https://stigasports.centracdn.net/client/dynamic/images/4379_6e56244043-dna-dragon-grip-55-1-square.jpg",
+      "description": "STIGA DNA Dragon Grip 55 是德国制造的高硬度粘性反胶，采用 55 度 C-Touch Tensor 海绵，强调粘性胶面的抓球、旋转和正手主动进攻能力。",
+      "tags": {
+        "brand": [
+          "STIGA（斯帝卡）"
+        ],
+        "position": [
+          "正手"
+        ],
+        "rubberType": [
+          "反胶"
+        ],
+        "sponge": [
+          "蛋糕海绵"
+        ],
+        "thickness": [
+          "2.15",
+          "2.3"
+        ],
+        "hardness": [
+          "硬",
+          "55度"
+        ],
+        "style": [
+          "弧圈",
+          "主动进攻",
+          "发抢"
+        ],
+        "origin": [
+          "德国"
+        ],
+        "surface": [
+          "粘性胶面"
+        ],
+        "alias": [
+          "DNA 赤龙",
+          "斯帝卡赤龙",
+          "DNA Dragon Grip",
+          "Dragon Grip 55"
+        ],
+        "spongeDetail": [
+          "55 度 C-Touch Tensor 海绵"
+        ]
+      },
+      "specs": {
+        "officialSpeed": 132,
+        "officialSpin": 146,
+        "officialControl": 80,
+        "officialHardness": "55",
+        "officialStyle": "Offensive",
+        "madeIn": "Germany",
+        "ittfApproved": true
+      },
+      "sources": [
+        "https://www.stigasports.com/en-row/product/dna-dragon-grip-55",
+        "https://stigasports.jp/dna",
+        "https://www.ttshop.cn/goods.php?id=5158",
+        "https://www.dku51.com/goods-4360.html",
+        "https://tieba.baidu.com/p/11120625563"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-23"
+      ],
+      "images": [
+        "https://stigasports.centracdn.net/client/dynamic/images/4379_6e56244043-dna-dragon-grip-55-1-square.jpg"
+      ]
+    },
+    {
       "id": "donic-bluegrip-d1",
       "releaseYear": 2026,
       "name": "BlueGrip D1",
