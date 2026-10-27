@@ -80,7 +80,7 @@ export const TAG_TAXONOMIES = {
   ],
   bladeFormat: ["横板", "直板"],
   bladeHandle: ["FL", "ST", "AN", "CS"],
-  bladeSpeed: ["ALL+", "OFF-", "OFF", "OFF+"],
+  bladeSpeed: ["DEF", "ALL-", "ALL+", "OFF-", "OFF", "OFF+"],
   bladeHardness: ["柔和", "中软", "中等", "中硬", "硬挺"],
   bladeFeel: [
     "持球",
@@ -344,6 +344,8 @@ function normalizeBladeSpeed(item) {
   else if (/(^|\s)OFF($|\s)|快速|(^|\s)快($|\s)/.test(text)) speed = "OFF";
   else if (/OFF-|中快|中快速/.test(text)) speed = "OFF-";
   else if (/ALL\+|中等/.test(text)) speed = "ALL+";
+  else if (/ALL-/.test(text)) speed = "ALL-";
+  else if (/DEF|防守速度/.test(text)) speed = "DEF";
   if (speed) item.tags.speed = [speed];
   else delete item.tags.speed;
 }

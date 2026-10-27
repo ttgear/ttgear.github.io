@@ -167,7 +167,7 @@ const tagTaxonomies = {
     ]),
     bladeFormat: new Set(["横板", "直板"]),
     handle: new Set(["FL", "ST", "AN", "CS"]),
-    speed: new Set(["ALL+", "OFF-", "OFF", "OFF+"]),
+    speed: new Set(["DEF", "ALL-", "ALL+", "OFF-", "OFF", "OFF+"]),
     bladeHardness: new Set(["柔和", "中软", "中等", "中硬", "硬挺"]),
     feel: new Set([
       "持球",

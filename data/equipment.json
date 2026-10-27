@@ -1,6 +1,72 @@
 {
   "rubbers": [
     {
+      "id": "palio-aeolus",
+      "name": "Aeolus（风神）",
+      "brand": "拍里奥",
+      "brandEn": "Palio",
+      "series": "Aeolus",
+      "price": 280,
+      "priceMin": 220,
+      "priceMax": 350,
+      "currency": "CNY",
+      "image": "https://ttnpp.com/store/1100-large_default/palio-aeolus-made-in-germany.jpg",
+      "description": "拍里奥 Aeolus（风神）是德国制造的涩性反胶，采用硬质胶面与大孔 Tensor 蛋糕海绵，提供红、黑 MAX 版本，定位旋转和速度兼顾的主动进攻。",
+      "tags": {
+        "brand": [
+          "Palio（拍里奥）"
+        ],
+        "position": [
+          "正手",
+          "反手"
+        ],
+        "rubberType": [
+          "反胶"
+        ],
+        "sponge": [
+          "蛋糕海绵"
+        ],
+        "thickness": [
+          "Max"
+        ],
+        "hardness": [
+          "硬"
+        ],
+        "style": [
+          "快攻弧圈",
+          "相持",
+          "主动进攻"
+        ],
+        "origin": [
+          "德国"
+        ],
+        "surface": [
+          "涩性胶面"
+        ],
+        "alias": [
+          "拍里奥风神",
+          "Palio Aeolus",
+          "风神 Aeolus"
+        ],
+        "spongeDetail": [
+          "德国制造的大孔 Tensor 海绵"
+        ]
+      },
+      "sources": [
+        "https://ttnpp.com/store/german-style/803-palio-aeolus-made-in-germany-6.html",
+        "https://www.fftt.com/wp-content/uploads/2026/01/liste-des-revetements-autorises-2026.pdf",
+        "https://www.ttline.cn/m/qcpc/taojiao/201908/qcpc_8537.html",
+        "https://tieba.baidu.com/p/11126312853"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-28"
+      ],
+      "images": [
+        "https://ttnpp.com/store/1100-large_default/palio-aeolus-made-in-germany.jpg",
+        "https://www.ttline.cn/qcpc/UploadFiles_3699/201908/2019080723375526.jpg"
+      ]
+    },
+    {
       "id": "stiga-dna-dragon-grip-55",
       "name": "DNA Dragon Grip 55（DNA 赤龙）",
       "brand": "斯帝卡",
@@ -11642,6 +11708,226 @@
     }
   ],
   "blades": [
+    {
+      "id": "butterfly-lim-jonghoon-advance",
+      "releaseDate": "2026-10-07",
+      "name": "LIM JONGHOON ADVANCE（林仲勋 Advance）",
+      "brand": "蝴蝶",
+      "brandEn": "Butterfly",
+      "series": "Lim Jonghoon",
+      "price": 950,
+      "priceMin": 800,
+      "priceMax": 1300,
+      "currency": "CNY",
+      "image": "https://www.butterfly-korea.co.kr/products/item/37411.jpg",
+      "description": "Butterfly 于 2026 年 10 月在韩国推出的林仲勋签名外置 ALC 底板，采用 5 木 + 2 芳碳结构、6.2 mm 板厚和略放大的 158 × 152 mm 板面，仅提供 FL 横板，强调稳定速度与控制的平衡。",
+      "tags": {
+        "brand": [
+          "Butterfly（蝴蝶）"
+        ],
+        "structure": [
+          "外置纤维"
+        ],
+        "material": [
+          "芳碳（ALC）"
+        ],
+        "position": [
+          "快攻弧圈",
+          "控制",
+          "主动进攻",
+          "近台"
+        ],
+        "handle": [
+          "FL"
+        ],
+        "speed": [
+          "OFF"
+        ],
+        "feel": [
+          "清晰",
+          "稳定",
+          "支撑"
+        ],
+        "origin": [
+          "日本"
+        ],
+        "alias": [
+          "林仲勋 ALC",
+          "林钟勋 ALC",
+          "林仲勋 Advance",
+          "Lim Jonghoon ALC",
+          "임종훈 어드밴스"
+        ],
+        "structureDetail": [
+          "5 木 + 2 外置 ALC；板厚 6.2 mm；板面 158 × 152 mm"
+        ],
+        "materialDetail": [
+          "Arylate Carbon（ALC）"
+        ],
+        "bladeFormat": [
+          "横板"
+        ]
+      },
+      "sources": [
+        "https://www.butterfly-korea.co.kr/products/detail/37411.html",
+        "https://www.butterfly-korea.co.kr/sponsoring/detail/lim-jonghoon.html",
+        "https://skpingpong.imweb.me/?idx=830",
+        "https://tieba.baidu.com/p/11142588055",
+        "https://tieba.baidu.com/p/11142122619"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-28"
+      ],
+      "images": [
+        "https://www.butterfly-korea.co.kr/products/item/37411.jpg"
+      ]
+    },
+    {
+      "id": "sword-309",
+      "name": "309",
+      "brand": "世奥得",
+      "brandEn": "Sword",
+      "series": "削球",
+      "price": 273,
+      "priceMin": 230,
+      "priceMax": 320,
+      "currency": "CNY",
+      "image": "https://www.swordtt.com/uploadfiles/image/20201024/1603527584118165.png",
+      "description": "世奥得 309 是面向削球和削攻结合打法的九层纯木底板，提供 FL、ST 横板手柄，强调防守控制、持球和反击衔接；品牌官网标价 273 元。",
+      "tags": {
+        "brand": [
+          "Sword（世奥得）"
+        ],
+        "structure": [
+          "多层纯木"
+        ],
+        "material": [
+          "纯木"
+        ],
+        "position": [
+          "控制",
+          "防守",
+          "削球"
+        ],
+        "handle": [
+          "FL",
+          "ST"
+        ],
+        "speed": [
+          "ALL+"
+        ],
+        "feel": [
+          "持球",
+          "稳定"
+        ],
+        "origin": [
+          "中国"
+        ],
+        "alias": [
+          "世奥得 309",
+          "Sword 309",
+          "309 削球板"
+        ],
+        "structureDetail": [
+          "9 层纯木"
+        ],
+        "bladeFormat": [
+          "横板"
+        ],
+        "bladeHardness": [
+          "中软"
+        ]
+      },
+      "sources": [
+        "https://www.swordtt.com/about/377.html",
+        "https://bbs.cnpingpang.com/forum.php?mod=viewthread&tid=854686",
+        "https://tt-finder.net/en/tt-blade/Sword/309",
+        "https://tieba.baidu.com/p/11142818057"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-28"
+      ],
+      "images": [
+        "https://www.swordtt.com/uploadfiles/image/20201024/1603527584118165.png",
+        "https://www.swordtt.com/uploadfiles/image/20201024/1603527583140619.png"
+      ]
+    },
+    {
+      "id": "donic-defplay-senso",
+      "name": "DEFPLAY SENSO（削球王 V3）",
+      "brand": "多尼克",
+      "brandEn": "DONIC",
+      "series": "Defplay",
+      "price": 420,
+      "priceMin": 320,
+      "priceMax": 520,
+      "currency": "CNY",
+      "image": "https://www.donic.com/media/5c/12/b3/1669040802/donic-defplay_senso-web.jpg?ts=1697464405",
+      "description": "DONIC 的五夹纯木防守底板，采用放大板面和 SENSO V3 中空手柄技术，重量低于 80 g，提供 FL、ST、AN 手柄，面向重视控制并兼顾反击的削球打法。",
+      "tags": {
+        "brand": [
+          "DONIC（多尼克）"
+        ],
+        "structure": [
+          "五夹纯木"
+        ],
+        "material": [
+          "纯木"
+        ],
+        "position": [
+          "控制",
+          "防守",
+          "削球"
+        ],
+        "handle": [
+          "FL",
+          "ST",
+          "AN"
+        ],
+        "speed": [
+          "DEF"
+        ],
+        "feel": [
+          "持球",
+          "稳定",
+          "弹性"
+        ],
+        "weight": [
+          "偏轻"
+        ],
+        "alias": [
+          "多尼克削球王 V3",
+          "Defplay Senso V3",
+          "DONIC Defplay Senso",
+          "削球王 V3"
+        ],
+        "structureDetail": [
+          "5 层纯木；Abachi 大芯、Gabun 中间层、Anegre 面材；SENSO V3 中空手柄"
+        ],
+        "weightDetail": [
+          "低于 80g"
+        ],
+        "bladeFormat": [
+          "横板"
+        ],
+        "bladeHardness": [
+          "柔和"
+        ]
+      },
+      "sources": [
+        "https://www.donic.com/en/DONIC-DEFPLAY-SENSO/100212020",
+        "https://www.donic.com/media/Blaetterkataloge/DONIC/EN/blaetterkatalog/pdf/complete_print.pdf",
+        "https://www.dku51.com/goods-341.html",
+        "https://tieba.baidu.com/p/11142818057"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-28"
+      ],
+      "images": [
+        "https://www.donic.com/media/5c/12/b3/1669040802/donic-defplay_senso-web.jpg?ts=1697464405",
+        "https://www.donic.com/media/12/05/a7/1669040678/label-donic_senso.jpg?ts=1697464407"
+      ]
+    },
     {
       "id": "yinhe-sun-wen-afc",
       "releaseDate": "2026-10-07",
