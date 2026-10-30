@@ -11709,6 +11709,89 @@
   ],
   "blades": [
     {
+      "id": "tibhar-fortino-pro",
+      "name": "FORTINO PRO（佛迪诺 Pro 外置）",
+      "brand": "挺拔",
+      "brandEn": "TIBHAR",
+      "series": "Fortino",
+      "price": 1100,
+      "priceMin": 950,
+      "priceMax": 1300,
+      "currency": "CNY",
+      "image": "https://cdn.megaspin.net/store/images/products/zoom2_t-fortino-pro.jpg",
+      "description": "TIBHAR Fortino Pro 是 5 木 + 2 层外置 Dyneema Carbon 进攻底板。官方标注约 85 g、OFF+，复合纤维位于面材下方，强调更大的甜区、较低振动以及弧圈、反拉和封挡时的速度与穿透力。",
+      "tags": {
+        "brand": [
+          "TIBHAR（挺拔）"
+        ],
+        "structure": [
+          "外置纤维"
+        ],
+        "material": [
+          "混编碳纤维"
+        ],
+        "position": [
+          "快攻弧圈",
+          "相持",
+          "主动进攻",
+          "中远台"
+        ],
+        "handle": [
+          "FL",
+          "ST",
+          "AN"
+        ],
+        "speed": [
+          "OFF+"
+        ],
+        "feel": [
+          "直接",
+          "支撑",
+          "稳定"
+        ],
+        "weight": [
+          "常规"
+        ],
+        "origin": [
+          "德国"
+        ],
+        "alias": [
+          "Fortino Pro 外置",
+          "挺拔佛迪诺 Pro",
+          "佛迪诺外置",
+          "萨姆索诺夫 Fortino Pro"
+        ],
+        "structureDetail": [
+          "5 木 + 2 外置纤维"
+        ],
+        "materialDetail": [
+          "Dyneema Carbon"
+        ],
+        "weightDetail": [
+          "约 85g"
+        ],
+        "bladeFormat": [
+          "横板"
+        ],
+        "bladeHardness": [
+          "硬挺"
+        ]
+      },
+      "sources": [
+        "https://tibhar.info/en/shop/fortino-pro/",
+        "https://www.tibhar.info/Katalog/webpdf/TIBHAR_Catalogue_25_EN_web.pdf",
+        "https://www.dku51.com/goods-3942.html",
+        "https://tieba.baidu.com/p/9444138918"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-31"
+      ],
+      "images": [
+        "https://cdn.megaspin.net/store/images/products/zoom2_t-fortino-pro.jpg",
+        "https://www.tt-shop.com/media/catalog/product/cache/4/image/9df78eab33525d08d6e5fb8d27136e95/t/i/tibhar_fortino_pro.jpg"
+      ]
+    },
+    {
       "id": "butterfly-lim-jonghoon-advance",
       "releaseDate": "2026-10-07",
       "name": "LIM JONGHOON ADVANCE（林仲勋 Advance）",
