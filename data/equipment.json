@@ -11709,6 +11709,92 @@
   ],
   "blades": [
     {
+      "id": "stiga-cybershape-wood",
+      "releaseYear": 2022,
+      "name": "CYBERSHAPE WOOD（赛博纯木）",
+      "brand": "斯帝卡",
+      "brandEn": "STIGA",
+      "series": "Cybershape",
+      "price": 560,
+      "priceMin": 500,
+      "priceMax": 700,
+      "currency": "CNY",
+      "image": "https://stigasports.centracdn.net/client/dynamic/images/4837_2e9e29a330-stiga-cyber-classic_1-square.jpg",
+      "description": "STIGA Cybershape Wood 是瑞典制造的五夹纯木进攻底板，采用林巴面材和六边形 Cybershape 板形。官方标注板厚约 6.0 mm、基准重量约 83 g，扩大的上部击球区兼顾持球、控制和主动进攻。",
+      "tags": {
+        "brand": [
+          "STIGA（斯帝卡）"
+        ],
+        "structure": [
+          "五夹纯木"
+        ],
+        "material": [
+          "纯木"
+        ],
+        "position": [
+          "快攻弧圈",
+          "弧圈",
+          "控制",
+          "主动进攻"
+        ],
+        "handle": [
+          "FL",
+          "ST",
+          "CS"
+        ],
+        "speed": [
+          "OFF-"
+        ],
+        "feel": [
+          "持球",
+          "清晰",
+          "稳定",
+          "纯木手感"
+        ],
+        "weight": [
+          "常规"
+        ],
+        "origin": [
+          "瑞典"
+        ],
+        "alias": [
+          "赛博纯木",
+          "纯木赛博",
+          "Cybershape Wood",
+          "斯帝卡赛博纯木"
+        ],
+        "structureDetail": [
+          "五夹纯木；板厚约 6.0 mm；Cybershape 六边形板面"
+        ],
+        "materialDetail": [
+          "林巴面材"
+        ],
+        "weightDetail": [
+          "约 83g"
+        ],
+        "bladeFormat": [
+          "横板",
+          "直板"
+        ],
+        "bladeHardness": [
+          "中硬"
+        ]
+      },
+      "sources": [
+        "https://www.stigasports.com/en-row/product/cybershape-wood",
+        "https://stigasports.jp/products/1333",
+        "https://www.dku51.com/goods-4488.html",
+        "https://tieba.baidu.com/p/11124899322"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-10-31"
+      ],
+      "images": [
+        "https://stigasports.centracdn.net/client/dynamic/images/4837_2e9e29a330-stiga-cyber-classic_1-square.jpg",
+        "https://cdn.shopify.com/s/files/1/0654/9510/5781/files/8341457_1.jpg?v=1683696083&width=1946"
+      ]
+    },
+    {
       "id": "tibhar-fortino-pro",
       "name": "FORTINO PRO（佛迪诺 Pro 外置）",
       "brand": "挺拔",
