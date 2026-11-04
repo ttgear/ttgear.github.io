@@ -11709,6 +11709,92 @@
   ],
   "blades": [
     {
+      "id": "tibhar-mk-carbon",
+      "releaseYear": 2023,
+      "name": "MK CARBON（松平健太碳素）",
+      "brand": "挺拔",
+      "brandEn": "TIBHAR",
+      "series": "MK",
+      "price": 850,
+      "priceMin": 740,
+      "priceMax": 950,
+      "currency": "CNY",
+      "image": "https://www.contra.de/thumbnail/41/62/82/1686956821/11165_0_1920x1920.jpg",
+      "description": "TIBHAR MK Carbon 是与松平健太共同开发、在日本制造的外置碳素进攻底板。采用 5 木 + 2 层 Krypto Carbon 结构，官方标注约 85 g、OFF，强调延长触球感、稳定甜区以及速度与控制的平衡。",
+      "tags": {
+        "brand": [
+          "TIBHAR（挺拔）"
+        ],
+        "structure": [
+          "外置纤维"
+        ],
+        "material": [
+          "碳纤维"
+        ],
+        "position": [
+          "快攻弧圈",
+          "弧圈",
+          "相持",
+          "主动进攻"
+        ],
+        "handle": [
+          "FL",
+          "ST",
+          "CS"
+        ],
+        "speed": [
+          "OFF"
+        ],
+        "feel": [
+          "持球",
+          "清晰",
+          "稳定",
+          "支撑"
+        ],
+        "weight": [
+          "常规"
+        ],
+        "origin": [
+          "日本"
+        ],
+        "alias": [
+          "松平健太 MK",
+          "松平健太碳素",
+          "MK Carbon",
+          "MK 碳素"
+        ],
+        "structureDetail": [
+          "5 木 + 2 外置 Krypto Carbon；板厚约 5.8 mm"
+        ],
+        "materialDetail": [
+          "Krypto Carbon"
+        ],
+        "weightDetail": [
+          "约 85g"
+        ],
+        "bladeFormat": [
+          "横板",
+          "直板"
+        ],
+        "bladeHardness": [
+          "中硬"
+        ]
+      },
+      "sources": [
+        "https://tibhar.info/en/shop/mk-carbon/",
+        "https://tibhar-japan.com/rackets/",
+        "https://www.dku51.com/goods-4587.html",
+        "https://tieba.baidu.com/p/11166720128"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-11-05"
+      ],
+      "images": [
+        "https://www.contra.de/thumbnail/41/62/82/1686956821/11165_0_1920x1920.jpg",
+        "https://dnmsports.com/cdn/shop/files/MK_Carbon.png?v=1751465249&width=4571"
+      ]
+    },
+    {
       "id": "stiga-cybershape-wood",
       "releaseYear": 2022,
       "name": "CYBERSHAPE WOOD（赛博纯木）",
