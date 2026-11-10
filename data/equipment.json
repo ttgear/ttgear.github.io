@@ -1,6 +1,86 @@
 {
   "rubbers": [
     {
+      "id": "stiga-dna-hybrid-55",
+      "releaseYear": 2026,
+      "name": "DNA Hybrid 55（DNA 混动 55）",
+      "brand": "斯帝卡",
+      "brandEn": "STIGA",
+      "series": "DNA Hybrid",
+      "price": 220,
+      "priceMin": 180,
+      "priceMax": 260,
+      "currency": "CNY",
+      "image": "https://stigasports.centracdn.net/client/dynamic/images/5240_56e5deb364-stiga-table-tennis-rubber-dna-55-black-full.jpg",
+      "description": "STIGA DNA Hybrid 55 是德国制造的高硬度半粘性反胶，采用 55 度 Power Sponge Cells 蛋糕海绵和 H-Touch Tensor 技术。官方定位为进攻型套胶，强调主动发力时的速度、旋转、较长弧线和能量传递。",
+      "tags": {
+        "brand": [
+          "STIGA（斯帝卡）"
+        ],
+        "position": [
+          "正手",
+          "反手"
+        ],
+        "rubberType": [
+          "反胶"
+        ],
+        "sponge": [
+          "蛋糕海绵"
+        ],
+        "thickness": [
+          "2.2"
+        ],
+        "hardness": [
+          "硬",
+          "55度"
+        ],
+        "style": [
+          "弧圈",
+          "相持",
+          "主动进攻",
+          "反拉",
+          "拧拉"
+        ],
+        "origin": [
+          "德国"
+        ],
+        "surface": [
+          "半粘半涩胶面"
+        ],
+        "alias": [
+          "DNA 混动 55",
+          "DNA Hybrid Sponge 55",
+          "斯帝卡混动 55",
+          "混动 55"
+        ],
+        "spongeDetail": [
+          "55 度 Power Sponge Cells 海绵"
+        ]
+      },
+      "specs": {
+        "officialSpeed": 168,
+        "officialSpin": 144,
+        "officialControl": 72,
+        "officialHardness": "55",
+        "officialStyle": "Offensive",
+        "madeIn": "Germany",
+        "ittfApproved": true
+      },
+      "sources": [
+        "https://www.stigasports.com/en/product/dna-hybrid-55",
+        "https://www.dku51.com/goods-5214.html",
+        "https://www.hktta.org.hk/gameinfo/local/local_hkopen_ranking/2026/Equipment_RacketCovering_11June2026.pdf",
+        "https://tieba.baidu.com/p/11172794075"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-11-10"
+      ],
+      "images": [
+        "https://stigasports.centracdn.net/client/dynamic/images/5240_56e5deb364-stiga-table-tennis-rubber-dna-55-black-full.jpg",
+        "https://stigasports.centracdn.net/client/dynamic/images/5240_c50b0c8601-stiga-table-tennis-rubber-dna-55-red-1-front-full.jpg"
+      ]
+    },
+    {
       "id": "palio-aeolus",
       "name": "Aeolus（风神）",
       "brand": "拍里奥",
