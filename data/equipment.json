@@ -11789,6 +11789,90 @@
   ],
   "blades": [
     {
+      "id": "butterfly-outerforce-caf",
+      "releaseYear": 2025,
+      "name": "OUTERFORCE CAF（外力 CAF）",
+      "brand": "蝴蝶",
+      "brandEn": "Butterfly",
+      "series": "Outerforce",
+      "price": 496,
+      "priceMin": 450,
+      "priceMax": 680,
+      "currency": "CNY",
+      "image": "https://shop.butterflyonline.com/Item%20Images/1270.media.01.jpg?resizeh=1200&resizeid=5&resizew=1200",
+      "description": "Butterfly OUTERFORCE CAF 是强调稳定和易控的外置纤维底板，采用 5 木 + 2 层 CAF 结构、6.3 mm 板厚，保留接近纯木的击球感，适合初次尝试特殊素材或重视控制的球友。",
+      "tags": {
+        "brand": [
+          "Butterfly（蝴蝶）"
+        ],
+        "structure": [
+          "外置纤维"
+        ],
+        "material": [
+          "非碳复合纤维"
+        ],
+        "position": [
+          "控制",
+          "弧圈",
+          "快攻弧圈"
+        ],
+        "handle": [
+          "FL",
+          "ST",
+          "AN",
+          "CS"
+        ],
+        "speed": [
+          "OFF-"
+        ],
+        "feel": [
+          "持球",
+          "稳定",
+          "纯木手感"
+        ],
+        "weight": [
+          "常规"
+        ],
+        "origin": [
+          "日本"
+        ],
+        "alias": [
+          "外力 CAF",
+          "Outer Force CAF",
+          "外置 CAF"
+        ],
+        "structureDetail": [
+          "5 木 + 2 外置 CAF；板厚 6.3 mm；横板板面 157 × 150 mm，直板板面 158 × 150 mm"
+        ],
+        "materialDetail": [
+          "CAF（Control Assist Fiber）"
+        ],
+        "weightDetail": [
+          "约 87g"
+        ],
+        "bladeFormat": [
+          "横板",
+          "直板"
+        ],
+        "bladeHardness": [
+          "中软"
+        ]
+      },
+      "sources": [
+        "https://www.butterfly-global.com/cn/products/detail/37351.html",
+        "https://www.butterfly-global.com/cn/product/outerforce/",
+        "https://www.pingpang365.com/home/gallery/detail/id/747",
+        "https://tieba.baidu.com/p/10633219871"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-11-15"
+      ],
+      "images": [
+        "https://shop.butterflyonline.com/Item%20Images/1270.media.01.jpg?resizeh=1200&resizeid=5&resizew=1200",
+        "https://shop.butterflyonline.com/Item%20Images/1270.media.AN.02.jpg?resizeh=1200&resizeid=5&resizew=1200"
+      ]
+    },
+    {
       "id": "tibhar-mk-carbon",
       "releaseYear": 2023,
       "name": "MK CARBON（松平健太碳素）",
