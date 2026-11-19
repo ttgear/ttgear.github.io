@@ -11789,6 +11789,93 @@
   ],
   "blades": [
     {
+      "id": "yinhe-sun-wen-afc-g",
+      "releaseDate": "2026-10-05",
+      "name": "孙闻 AFC-G（绿芳碳内置）",
+      "brand": "银河",
+      "brandEn": "Yinhe",
+      "series": "汇川",
+      "price": 258,
+      "priceMin": 200,
+      "priceMax": 300,
+      "currency": "CNY",
+      "image": "https://img.alicdn.com/bao/uploaded/i4/3212369243/O1CN01T9MIs8QhCpE49oPo_!!4611686018427387227-0-item_pic.jpg",
+      "description": "银河／汇川孙闻 AFC-G 是 2026 年推出的内置绿芳碳底板，采用 5 木 + 2 层 AFC-G 纤维和 5.9-6.1 mm 板厚，提供横板与直板版本，定位快攻结合两面弧圈。",
+      "tags": {
+        "brand": [
+          "Yinhe（银河）"
+        ],
+        "structure": [
+          "内置纤维"
+        ],
+        "material": [
+          "芳碳（ALC）"
+        ],
+        "position": [
+          "快攻弧圈",
+          "弧圈",
+          "相持"
+        ],
+        "handle": [
+          "FL",
+          "ST",
+          "CS"
+        ],
+        "speed": [
+          "OFF-"
+        ],
+        "feel": [
+          "持球",
+          "稳定",
+          "清晰"
+        ],
+        "weight": [
+          "常规",
+          "偏重"
+        ],
+        "origin": [
+          "中国"
+        ],
+        "alias": [
+          "银河孙闻 AFC-G",
+          "汇川孙闻 AFC-G",
+          "孙闻绿芳碳",
+          "HC 孙闻 AFC-G"
+        ],
+        "structureDetail": [
+          "5 木 + 2 内置 AFC-G 绿芳碳；板厚 5.9-6.1 mm"
+        ],
+        "materialDetail": [
+          "AFC-G 绿芳碳；白蜡木面材、阿尤斯力材与阿尤斯大芯"
+        ],
+        "weightDetail": [
+          "直板 82-89g；横板 89-95g"
+        ],
+        "bladeFormat": [
+          "横板",
+          "直板"
+        ],
+        "bladeHardness": [
+          "中软"
+        ]
+      },
+      "sources": [
+        "https://www.taouq.com/id-k08XdbjSYtaYRBYqYWCGGjfPtJ-oMZ778FeQA46kkPuj/",
+        "https://tieba.baidu.com/p/11211586206",
+        "https://post.smzdm.com/p/awwo65z4/"
+      ],
+      "contributors": [
+        "Codex AI 巡检 2026-11-20"
+      ],
+      "images": [
+        "https://img.alicdn.com/bao/uploaded/i4/3212369243/O1CN01T9MIs8QhCpE49oPo_!!4611686018427387227-0-item_pic.jpg",
+        "https://img.alicdn.com/i1/3212369243/O1CN01VWjuy0pe7AL8JcZ6~crop,430,0,3072,3072~hdr~_!!3212369243.jpg",
+        "https://img.alicdn.com/i4/3212369243/O1CN01l3hWUBfuUSG8JcZ6~crop,512,0,3072,3072~hdr~_!!3212369243.jpg",
+        "https://img.alicdn.com/i1/3212369243/O1CN01j6Zzn6GnhjF8JcZ6~crop,557,0,3072,3072~hdr~_!!3212369243.jpg",
+        "https://img.alicdn.com/i1/3212369243/O1CN01UWd4ny6G4uE8JcZ6~crop,512,0,3072,3072~hdr~_!!3212369243.jpg"
+      ]
+    },
+    {
       "id": "butterfly-outerforce-caf",
       "releaseYear": 2025,
       "name": "OUTERFORCE CAF（外力 CAF）",
